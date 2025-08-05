@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics, University of Wisconsin - Madison, 2028 (expected)
+* M.S. in Economics, University of Wisconsin - Madison, 2025
+* B.S. in Economics, University of Michigan, 2020
+* B.S. in Mathematical Sciences, University of Michigan, 2020
+* B.S. in Statistics, University of Michigan, 2020
+* B.S. in Philosophy, University of Michigan, 2020
 
 Work experience
 ======
