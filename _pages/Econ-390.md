@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Teaching Assistant"
-permalink: /teaching/Econ390/
+permalink: /teaching/Econ-390/
 author_profile: true
 ---
 ---
