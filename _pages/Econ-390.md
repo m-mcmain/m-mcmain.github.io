@@ -25,7 +25,7 @@ This week-by-week schedule will be constantly updated. Some topics may take long
 
 **File availability**: I will include a "blank" version of the notebook before lecture for you to fill out as the lecture goes on. After lecture, I will upload a "completed" version. At the top right of the page there is a link to download the notebook as an '.ipynb' file.
 
-**Figure of the week**: A mixture of good, bad, and ugly visualizations from the "real world." Take a few minutes and study the figure. What is it supposed to communicate? Could it be improved? Does it inspire other research questions? I have included some of my own thoughts on the figures, too. If you come across an interesting visualization, send it my way!
+<!-- **Figure of the week**: A mixture of good, bad, and ugly visualizations from the "real world." Take a few minutes and study the figure. What is it supposed to communicate? Could it be improved? Does it inspire other research questions? I have included some of my own thoughts on the figures, too. If you come across an interesting visualization, send it my way! -->
 
 ---
 
@@ -35,4 +35,4 @@ This week-by-week schedule will be constantly updated. Some topics may take long
 
 **File**:
 
-**Figure of the week**:
+<!-- **Figure of the week**: -->
