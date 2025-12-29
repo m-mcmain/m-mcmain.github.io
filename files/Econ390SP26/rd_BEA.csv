@@ -1,0 +1,625 @@
+Date,State,RD
+2012,Alabama,2176.2
+2013,Alabama,2328.3
+2014,Alabama,2717.8
+2015,Alabama,2480
+2016,Alabama,3089.6
+2017,Alabama,3265.5
+2018,Alabama,2712.1
+2019,Alabama,2894.5
+2020,Alabama,3044.7
+2021,Alabama,3488.4
+2022,Alabama,4689
+2023,Alabama,5122.8
+2012,Alaska,186.1
+2013,Alaska,202.2
+2014,Alaska,186.1
+2015,Alaska,218.7
+2016,Alaska,186.9
+2017,Alaska,175.9
+2018,Alaska,184.2
+2019,Alaska,206.2
+2020,Alaska,197.9
+2021,Alaska,291.7
+2022,Alaska,298.5
+2023,Alaska,231.8
+2012,Arizona,4265.9
+2013,Arizona,4417.8
+2014,Arizona,4512.9
+2015,Arizona,4658.4
+2016,Arizona,5872.1
+2017,Arizona,5231.6
+2018,Arizona,4858.7
+2019,Arizona,4953.7
+2020,Arizona,5472.3
+2021,Arizona,6732.1
+2022,Arizona,7426.9
+2023,Arizona,7366.2
+2012,Arkansas,439.1
+2013,Arkansas,399
+2014,Arkansas,442.9
+2015,Arkansas,417.4
+2016,Arkansas,475.6
+2017,Arkansas,572.6
+2018,Arkansas,569.7
+2019,Arkansas,545.2
+2020,Arkansas,549.7
+2021,Arkansas,624.5
+2022,Arkansas,725.2
+2023,Arkansas,858.9
+2012,California,66602.9
+2013,California,72898
+2014,California,80417.7
+2015,California,89296.8
+2016,California,96775.6
+2017,California,107893.4
+2018,California,112402.4
+2019,California,129127.1
+2020,California,153655.3
+2021,California,165731.6
+2022,California,181237.6
+2023,California,195232.3
+2012,Colorado,4383.7
+2013,Colorado,4702.9
+2014,Colorado,4751.1
+2015,Colorado,4717
+2016,Colorado,4592.7
+2017,Colorado,4708.4
+2018,Colorado,5330.9
+2019,Colorado,6483.6
+2020,Colorado,7095
+2021,Colorado,7783.9
+2022,Colorado,9382.6
+2023,Colorado,10164.3
+2012,Connecticut,4650.4
+2013,Connecticut,4364.6
+2014,Connecticut,4766.9
+2015,Connecticut,4954.8
+2016,Connecticut,4720.8
+2017,Connecticut,5152.4
+2018,Connecticut,5003.3
+2019,Connecticut,4922.1
+2020,Connecticut,5317
+2021,Connecticut,6166
+2022,Connecticut,7706.9
+2023,Connecticut,8287.1
+2012,Delaware,1919.8
+2013,Delaware,1740.4
+2014,Delaware,1330.2
+2015,Delaware,1589.9
+2016,Delaware,1300.9
+2017,Delaware,1315.4
+2018,Delaware,1438.2
+2019,Delaware,1403.9
+2020,Delaware,1619.2
+2021,Delaware,2086.7
+2022,Delaware,2519.2
+2023,Delaware,3219.2
+2012,District of Columbia,2469.9
+2013,District of Columbia,2920.6
+2014,District of Columbia,2746.7
+2015,District of Columbia,2751.1
+2016,District of Columbia,3010.1
+2017,District of Columbia,3619.2
+2018,District of Columbia,3896.2
+2019,District of Columbia,3967.4
+2020,District of Columbia,3891.2
+2021,District of Columbia,4316.2
+2022,District of Columbia,5433.1
+2023,District of Columbia,5649.7
+2012,Florida,5603.7
+2013,Florida,5962.7
+2014,Florida,6069.5
+2015,Florida,6220.7
+2016,Florida,6850.4
+2017,Florida,6835.5
+2018,Florida,6921.5
+2019,Florida,7340.7
+2020,Florida,7669.7
+2021,Florida,9158.2
+2022,Florida,10444.2
+2023,Florida,11808.8
+2012,Georgia,3917.5
+2013,Georgia,4009.2
+2014,Georgia,4452.8
+2015,Georgia,4331.5
+2016,Georgia,4918.5
+2017,Georgia,5590
+2018,Georgia,5197.9
+2019,Georgia,5068.5
+2020,Georgia,5616.6
+2021,Georgia,6311.7
+2022,Georgia,8210.5
+2023,Georgia,9544.4
+2012,Hawaii,398.4
+2013,Hawaii,391.7
+2014,Hawaii,387.7
+2015,Hawaii,398.7
+2016,Hawaii,364.4
+2017,Hawaii,400.1
+2018,Hawaii,401.3
+2019,Hawaii,402.4
+2020,Hawaii,481
+2021,Hawaii,596.3
+2022,Hawaii,620.7
+2023,Hawaii,604.1
+2012,Idaho,1354.3
+2013,Idaho,1479.9
+2014,Idaho,1500
+2015,Idaho,1575.7
+2016,Idaho,1498.6
+2017,Idaho,1624.6
+2018,Idaho,1778.6
+2019,Idaho,1912
+2020,Idaho,1957.9
+2021,Idaho,2035.2
+2022,Idaho,2717.9
+2023,Idaho,2926.4
+2012,Illinois,9813.8
+2013,Illinois,10185.3
+2014,Illinois,10295.6
+2015,Illinois,10771
+2016,Illinois,11987.1
+2017,Illinois,12100
+2018,Illinois,11180.9
+2019,Illinois,11536.4
+2020,Illinois,11873.1
+2021,Illinois,13177.2
+2022,Illinois,15277.3
+2023,Illinois,17550.2
+2012,Indiana,4303.9
+2013,Indiana,4959.1
+2014,Indiana,4343.1
+2015,Indiana,4451.9
+2016,Indiana,4629
+2017,Indiana,4750.4
+2018,Indiana,4794.6
+2019,Indiana,4933.8
+2020,Indiana,5217.9
+2021,Indiana,6166.7
+2022,Indiana,6705.8
+2023,Indiana,7943.6
+2012,Iowa,1779.9
+2013,Iowa,1906.1
+2014,Iowa,1961.2
+2015,Iowa,2243.1
+2016,Iowa,2641.8
+2017,Iowa,2672.5
+2018,Iowa,2788.3
+2019,Iowa,2647.9
+2020,Iowa,2797.4
+2021,Iowa,2206.2
+2022,Iowa,3293.2
+2023,Iowa,3712.3
+2012,Kansas,1618.6
+2013,Kansas,1590.9
+2014,Kansas,1584.9
+2015,Kansas,1669
+2016,Kansas,1728.9
+2017,Kansas,1866
+2018,Kansas,2081.6
+2019,Kansas,2083.5
+2020,Kansas,2158
+2021,Kansas,2162.9
+2022,Kansas,2597.9
+2023,Kansas,2432.2
+2012,Kentucky,1149.3
+2013,Kentucky,1287
+2014,Kentucky,1215.7
+2015,Kentucky,1247.6
+2016,Kentucky,1198.7
+2017,Kentucky,1066.7
+2018,Kentucky,1304.1
+2019,Kentucky,1371.5
+2020,Kentucky,1300.3
+2021,Kentucky,1490.4
+2022,Kentucky,1217.4
+2023,Kentucky,1445.5
+2012,Louisiana,648.6
+2013,Louisiana,667.1
+2014,Louisiana,675.1
+2015,Louisiana,677.4
+2016,Louisiana,635.3
+2017,Louisiana,663.7
+2018,Louisiana,732.3
+2019,Louisiana,952.1
+2020,Louisiana,838.8
+2021,Louisiana,904.4
+2022,Louisiana,980.4
+2023,Louisiana,1136.5
+2012,Maine,396.1
+2013,Maine,440.6
+2014,Maine,442.1
+2015,Maine,396.9
+2016,Maine,408.7
+2017,Maine,430.1
+2018,Maine,450.7
+2019,Maine,604.8
+2020,Maine,620.9
+2021,Maine,677.3
+2022,Maine,767.8
+2023,Maine,834.6
+2012,Maryland,12249.7
+2013,Maryland,12575.2
+2014,Maryland,12925.3
+2015,Maryland,13503
+2016,Maryland,14454.7
+2017,Maryland,14569.7
+2018,Maryland,15047.7
+2019,Maryland,15367.8
+2020,Maryland,16006.9
+2021,Maryland,15685.9
+2022,Maryland,18323.9
+2023,Maryland,19719.7
+2012,Massachusetts,14223
+2013,Massachusetts,14303.2
+2014,Massachusetts,16462.5
+2015,Massachusetts,17334.4
+2016,Massachusetts,17128.7
+2017,Massachusetts,18590.7
+2018,Massachusetts,21717.9
+2019,Massachusetts,23605.2
+2020,Massachusetts,25203.6
+2021,Massachusetts,29063.5
+2022,Massachusetts,33752.8
+2023,Massachusetts,34876.4
+2012,Michigan,10536.2
+2013,Michigan,11078.5
+2014,Michigan,11531.4
+2015,Michigan,11826.3
+2016,Michigan,13012.3
+2017,Michigan,13736.1
+2018,Michigan,15286.5
+2019,Michigan,15358.9
+2020,Michigan,15630.1
+2021,Michigan,16461.7
+2022,Michigan,19512.1
+2023,Michigan,19933
+2012,Minnesota,5705.6
+2013,Minnesota,6069.6
+2014,Minnesota,6234.2
+2015,Minnesota,6188.3
+2016,Minnesota,6407.7
+2017,Minnesota,6468.8
+2018,Minnesota,6597.4
+2019,Minnesota,7091.9
+2020,Minnesota,7161
+2021,Minnesota,7307.1
+2022,Minnesota,7884.7
+2023,Minnesota,8774.7
+2012,Mississippi,642.9
+2013,Mississippi,607.4
+2014,Mississippi,606.5
+2015,Mississippi,554.3
+2016,Mississippi,574.9
+2017,Mississippi,627
+2018,Mississippi,667.2
+2019,Mississippi,630.3
+2020,Mississippi,588.7
+2021,Mississippi,661.2
+2022,Mississippi,863.2
+2023,Mississippi,726.4
+2012,Missouri,2953.8
+2013,Missouri,3839.2
+2014,Missouri,3466.3
+2015,Missouri,3435.9
+2016,Missouri,3238.1
+2017,Missouri,3370.6
+2018,Missouri,4340.9
+2019,Missouri,3994.5
+2020,Missouri,3850.2
+2021,Missouri,4478.1
+2022,Missouri,3927.8
+2023,Missouri,4210.8
+2012,Montana,203.3
+2013,Montana,199.7
+2014,Montana,284.9
+2015,Montana,283.5
+2016,Montana,249.9
+2017,Montana,260.2
+2018,Montana,314.1
+2019,Montana,378.8
+2020,Montana,415.7
+2021,Montana,456.7
+2022,Montana,547.2
+2023,Montana,610.6
+2012,Nebraska,759.7
+2013,Nebraska,806.1
+2014,Nebraska,750.1
+2015,Nebraska,743.5
+2016,Nebraska,800.7
+2017,Nebraska,777.6
+2018,Nebraska,768.1
+2019,Nebraska,975.2
+2020,Nebraska,1034.5
+2021,Nebraska,1192.4
+2022,Nebraska,1539.9
+2023,Nebraska,2076.2
+2012,Nevada,582.1
+2013,Nevada,542.9
+2014,Nevada,597.8
+2015,Nevada,412.2
+2016,Nevada,519.5
+2017,Nevada,634.3
+2018,Nevada,871.7
+2019,Nevada,938.6
+2020,Nevada,906.9
+2021,Nevada,963.5
+2022,Nevada,1476.1
+2023,Nevada,1745.7
+2012,New Hampshire,1590
+2013,New Hampshire,1730.2
+2014,New Hampshire,1669.7
+2015,New Hampshire,1586.5
+2016,New Hampshire,1662.2
+2017,New Hampshire,1209.1
+2018,New Hampshire,1888.2
+2019,New Hampshire,1965.4
+2020,New Hampshire,2329.8
+2021,New Hampshire,2439.3
+2022,New Hampshire,2613.9
+2023,New Hampshire,2910.7
+2012,New Jersey,10963.4
+2013,New Jersey,10304.1
+2014,New Jersey,10319.5
+2015,New Jersey,10607.4
+2016,New Jersey,10740.7
+2017,New Jersey,11416.5
+2018,New Jersey,13841.3
+2019,New Jersey,13634.3
+2020,New Jersey,14218.2
+2021,New Jersey,15948.2
+2022,New Jersey,17095.3
+2023,New Jersey,16712.7
+2012,New Mexico,3086.8
+2013,New Mexico,3144.6
+2014,New Mexico,3185.7
+2015,New Mexico,3262.8
+2016,New Mexico,3419.8
+2017,New Mexico,3849.1
+2018,New Mexico,3939
+2019,New Mexico,4055.1
+2020,New Mexico,4652.3
+2021,New Mexico,5024.7
+2022,New Mexico,5459.7
+2023,New Mexico,6075.9
+2012,New York,11916
+2013,New York,11793.5
+2014,New York,13622.5
+2015,New York,15608.9
+2016,New York,15917.2
+2017,New York,16376.9
+2018,New York,17467.2
+2019,New York,19323.6
+2020,New York,22003.7
+2021,New York,25001.9
+2022,New York,29796.5
+2023,New York,32620.5
+2012,North Carolina,5978.3
+2013,North Carolina,7245
+2014,North Carolina,7392.4
+2015,North Carolina,7864.3
+2016,North Carolina,9074.9
+2017,North Carolina,9054
+2018,North Carolina,9881.1
+2019,North Carolina,10340.6
+2020,North Carolina,11352.7
+2021,North Carolina,12235.7
+2022,North Carolina,13287.3
+2023,North Carolina,15238.4
+2012,North Dakota,300.2
+2013,North Dakota,324.9
+2014,North Dakota,348.3
+2015,North Dakota,316.2
+2016,North Dakota,347.6
+2017,North Dakota,396.3
+2018,North Dakota,374.3
+2019,North Dakota,402.3
+2020,North Dakota,399.8
+2021,North Dakota,400
+2022,North Dakota,508
+2023,North Dakota,673.8
+2012,Ohio,6930.1
+2013,Ohio,7164.8
+2014,Ohio,7622.7
+2015,Ohio,7952.5
+2016,Ohio,7569.1
+2017,Ohio,8064.2
+2018,Ohio,8355.1
+2019,Ohio,8906.3
+2020,Ohio,9095.4
+2021,Ohio,10036.5
+2022,Ohio,11087.8
+2023,Ohio,10648.3
+2012,Oklahoma,696.7
+2013,Oklahoma,711.9
+2014,Oklahoma,795
+2015,Oklahoma,946.8
+2016,Oklahoma,1048.1
+2017,Oklahoma,1125.1
+2018,Oklahoma,1139.1
+2019,Oklahoma,1262.6
+2020,Oklahoma,1333.6
+2021,Oklahoma,1637.2
+2022,Oklahoma,1893.6
+2023,Oklahoma,2458.9
+2012,Oregon,4256.7
+2013,Oregon,4578.5
+2014,Oregon,4931
+2015,Oregon,5191.1
+2016,Oregon,5508.3
+2017,Oregon,5674.9
+2018,Oregon,6217.6
+2019,Oregon,5571.3
+2020,Oregon,6379.5
+2021,Oregon,7125
+2022,Oregon,7928.6
+2023,Oregon,7221.2
+2012,Pennsylvania,8453.6
+2013,Pennsylvania,9302.5
+2014,Pennsylvania,9444
+2015,Pennsylvania,9355.2
+2016,Pennsylvania,9858.3
+2017,Pennsylvania,9573.1
+2018,Pennsylvania,10722.5
+2019,Pennsylvania,12551.4
+2020,Pennsylvania,13022.5
+2021,Pennsylvania,14004.3
+2022,Pennsylvania,15598.2
+2023,Pennsylvania,16249.3
+2012,Rhode Island,478.9
+2013,Rhode Island,585.3
+2014,Rhode Island,586.4
+2015,Rhode Island,684.9
+2016,Rhode Island,902.4
+2017,Rhode Island,832.4
+2018,Rhode Island,788.9
+2019,Rhode Island,796.7
+2020,Rhode Island,830.4
+2021,Rhode Island,881.9
+2022,Rhode Island,815.3
+2023,Rhode Island,803.3
+2012,South Carolina,1577
+2013,South Carolina,1152.1
+2014,South Carolina,1248.6
+2015,South Carolina,1402.8
+2016,South Carolina,1472
+2017,South Carolina,1476.7
+2018,South Carolina,1562.3
+2019,South Carolina,1603.5
+2020,South Carolina,1515.7
+2021,South Carolina,1778
+2022,South Carolina,2717.2
+2023,South Carolina,3260.5
+2012,South Dakota,154.4
+2013,South Dakota,185.8
+2014,South Dakota,177.5
+2015,South Dakota,176.3
+2016,South Dakota,179.7
+2017,South Dakota,182.1
+2018,South Dakota,202
+2019,South Dakota,193.7
+2020,South Dakota,264.6
+2021,South Dakota,250
+2022,South Dakota,231.5
+2023,South Dakota,285.8
+2012,Tennessee,1615.3
+2013,Tennessee,1595.8
+2014,Tennessee,1707.5
+2015,Tennessee,1779.6
+2016,Tennessee,1788.2
+2017,Tennessee,1732.4
+2018,Tennessee,1948.2
+2019,Tennessee,2466.9
+2020,Tennessee,2595.6
+2021,Tennessee,3348.2
+2022,Tennessee,3463.5
+2023,Tennessee,4266
+2012,Texas,13655.6
+2013,Texas,14412.4
+2014,Texas,14970.7
+2015,Texas,15903.1
+2016,Texas,17367.6
+2017,Texas,18921
+2018,Texas,18960.2
+2019,Texas,21160.7
+2020,Texas,23018
+2021,Texas,23689.6
+2022,Texas,26026.9
+2023,Texas,30112.1
+2012,United States,262831.4
+2013,United States,277283.2
+2014,United States,292559.8
+2015,United States,309992.9
+2016,United States,329632.7
+2017,United States,349973.3
+2018,United States,377892.9
+2019,United States,410609.6
+2020,United States,454393.4
+2021,United States,498820.5
+2022,United States,563999.3
+2023,United States,603763.9
+2012,Utah,1976.6
+2013,Utah,2816.8
+2014,Utah,2627.8
+2015,Utah,3010.9
+2016,Utah,3379
+2017,Utah,2532.4
+2018,Utah,2746.7
+2019,Utah,2720.7
+2020,Utah,3214.5
+2021,Utah,3753.5
+2022,Utah,3670.2
+2023,Utah,4071.8
+2012,Vermont,438.8
+2013,Vermont,408.5
+2014,Vermont,301.7
+2015,Vermont,270.4
+2016,Vermont,274.9
+2017,Vermont,271
+2018,Vermont,304.4
+2019,Vermont,279.9
+2020,Vermont,370.3
+2021,Vermont,493
+2022,Vermont,573.5
+2023,Vermont,579.8
+2012,Virginia,6897.5
+2013,Virginia,6122
+2014,Virginia,6596
+2015,Virginia,6362.9
+2016,Virginia,6020.4
+2017,Virginia,6027.5
+2018,Virginia,7410.9
+2019,Virginia,7494.3
+2020,Virginia,8639.4
+2021,Virginia,9477.8
+2022,Virginia,10259.1
+2023,Virginia,10372
+2012,Washington,11566.3
+2013,Washington,12305.5
+2014,Washington,12946.8
+2015,Washington,13674.4
+2016,Washington,14745.2
+2017,Washington,16949.3
+2018,Washington,24802.9
+2019,Washington,28200.4
+2020,Washington,30870.2
+2021,Washington,36551.7
+2022,Washington,43685.8
+2023,Washington,42498.5
+2012,West Virginia,498.3
+2013,West Virginia,499.4
+2014,West Virginia,457.7
+2015,West Virginia,414.1
+2016,West Virginia,380.6
+2017,West Virginia,392.9
+2018,West Virginia,446.9
+2019,West Virginia,385.3
+2020,West Virginia,391.2
+2021,West Virginia,589.6
+2022,West Virginia,567.2
+2023,West Virginia,550.4
+2012,Wisconsin,3806
+2013,Wisconsin,3964.4
+2014,Wisconsin,3865.8
+2015,Wisconsin,4123.4
+2016,Wisconsin,4508.1
+2017,Wisconsin,4815.3
+2018,Wisconsin,5157.6
+2019,Wisconsin,5445.2
+2020,Wisconsin,5544.7
+2021,Wisconsin,5594.3
+2022,Wisconsin,6464.8
+2023,Wisconsin,7248.9
+2012,Wyoming,60.4
+2013,Wyoming,60.1
+2014,Wyoming,83.5
+2015,Wyoming,149.1
+2016,Wyoming,196.1
+2017,Wyoming,131.9
+2018,Wyoming,97.7
+2019,Wyoming,150.7
+2020,Wyoming,179.9
+2021,Wyoming,182.2
+2022,Wyoming,175.8
+2023,Wyoming,160.4
