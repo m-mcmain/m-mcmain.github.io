@@ -11,7 +11,7 @@ author_profile: true
 <br><br>
 **Instructor**: M McMain // mcmain@wisc.edu
 <br>
-**Office hours**: MR 11AM-12:30PM | 7230 Soc Sci
+**Office hours**: Mondays & Thursdays 11AM-12:30PM | 7230 Soc Sci
 <br><br>
 **Grades and announcements are managed through Canvas. Everything else happens here.**
 
@@ -35,5 +35,7 @@ Introduction & Using Jupyter
 **Reading**: [Syllabus](https://m-mcmain.github.io/files/Econ390SP26/Econ390_Spring2026_Syllabus.pdf) 
 
 **File**: 
+
+**Homework**: [PSet 1 Due Monday, January 26th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/683889)
 
 <!-- **Figure of the week**: -->
