@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Econ 390: Fundamentals of Data Analytics for Economists"
+title: "Econ 390: Introduction to Coding with Economic Data"
 permalink: /teaching/Econ-390/
 author_profile: true
 ---
