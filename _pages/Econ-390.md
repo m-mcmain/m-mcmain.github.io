@@ -19,7 +19,7 @@ author_profile: true
 
 ## Weekly Schedule
 
-This week-by-week schedule will be constantly updated. Some topics may take longer than scheduled (and others may take less) but **exam, coding practice, and project due dates will not change.**
+This week-by-week schedule will be constantly updated. Some topics may take longer than scheduled (and others may take less) but **Exam and Problem Set Dates will not change.**
 
 **Reading**: McKinney refers to the book [Python for Data Analysis (Third edition)](https://wesmckinney.com/book/) by Wes McKinney and [Coding for Economists](https://aeturrell.github.io/coding-for-economists/) by Arthur Turrell. Both are available for free at their respective links. There is a lot more in these books than we will cover, but they are a good reference.
 
