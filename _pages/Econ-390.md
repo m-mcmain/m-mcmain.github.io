@@ -11,7 +11,7 @@ author_profile: true
 <br><br>
 **Instructor**: M McMain // mcmain@wisc.edu
 <br>
-**Office hours**: MW 9:30AM-11:00AM | 7230 Soc Sci
+**Office hours**: MR 11AM-12:30PM | 7230 Soc Sci
 <br><br>
 **Grades and announcements are managed through Canvas. Everything else happens here.**
 
@@ -33,6 +33,6 @@ This week-by-week schedule will be constantly updated. Some topics may take long
 
 **Reading**: 
 
-**File**:
+**File**: [Syllabus]()
 
 <!-- **Figure of the week**: -->
