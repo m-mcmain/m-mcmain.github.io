@@ -30,9 +30,10 @@ This week-by-week schedule will be constantly updated. Some topics may take long
 ---
 
 **Week 1: 1/20 & 1/22**
+Introduction & Using Jupyter
 
-**Reading**: 
+**Reading**: [Syllabus](https://m-mcmain.github.io/files/Econ390SP26/Econ390_Spring2026_Syllabus.pdf) 
 
-**File**: [Syllabus]()
+**File**: 
 
 <!-- **Figure of the week**: -->
