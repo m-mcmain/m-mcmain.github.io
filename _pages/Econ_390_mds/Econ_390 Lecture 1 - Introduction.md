@@ -1,6 +1,5 @@
 ---
 layout: single
-title: "Econ 390 Lecture 1"
 sitemap: false
 permalink: /pages/Econ_390_SP26_L1/
 ---
