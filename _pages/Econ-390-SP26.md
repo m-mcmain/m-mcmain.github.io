@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Econ 390: Introduction to Coding with Economic Data"
-permalink: /teaching/Econ-390/
+permalink: /teaching/Econ-390-SP26/
 author_profile: true
 ---
 ---
