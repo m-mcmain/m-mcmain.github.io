@@ -5,6 +5,8 @@ sitemap: false
 permalink: /pages/Econ_390_L1/
 ---
 
+[Download Jupyter Notebook](m-mcmain,github.io/files/Econ390SP26/Lecture1_Introduction.ipynb)
+
 # Welcome to Econ 390 - Introduction Programming: Economic Data
 This class will introduce you to programming, specifically through the lens of working with economic data. We will be using Python as our language of choice, though once you learn one language it's very easy to learn more!
 
