@@ -117,7 +117,7 @@ plt.show()
 
 
     
-![png](output_2_0.png)
+![png](images/L!_output_2_0.png)
     
 
 
@@ -145,7 +145,7 @@ for series, unit, axi in zip(series_list, units, fig.axes) :
 
 
     
-![png](output_3_0.png)
+![png](images/L1_output_3_0.png)
     
 
 
