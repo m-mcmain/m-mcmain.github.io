@@ -82,6 +82,7 @@ The Final Exam will be worth 20% of your final grade
 Attendance will be worth 20% off your final grade
 - Attendance will be taken using Tophat at the end of class, which can be accessed from Canvas.
 - If you do not want to take attendance using Tophat you're welcome to come up and "sign in" on a piece of paper at the end of class.
+- To accommodate students who join after the add/drop deadline, I will not start officially taking attendance until Thursday, January 26th. However, it is still important to attend the first few classes to set the foundation of the course.
 
 # Introduction
 Thanks in large part to the internet, the world is a very data driven place. Economists *especially* work with data to understand and analyze the world around us. As a result, we need to decide *how* we are going to work with the data. Options include:
