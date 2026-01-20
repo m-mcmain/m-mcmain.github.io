@@ -15,7 +15,10 @@ main:
  #   url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/ 
+
+  - title: "Econ 390"
+    url: /Econ-390/ 
     
  # - title: "Portfolio"
  #   url: /portfolio/
