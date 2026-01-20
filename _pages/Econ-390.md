@@ -34,8 +34,14 @@ Introduction & Using Jupyter
 
 **Reading**: [Syllabus](https://m-mcmain.github.io/files/Econ390SP26/Econ390_Spring2026_Syllabus.pdf) 
 
-**File**: [Lecture 1](https://m-mcmain.github.io/pages/Econ_390_L1/)
+**File**: [Lecture 1 (Introduction)](https://m-mcmain.github.io/pages/Econ_390_SP26_L1/) & [Lecture 2 (Jupyter)](https://m-mcmain.github.io/pages/Econ_390_SP26_L1/)
 
 **Homework**: [PSet 1 Due Monday, January 26th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/683889)
 
-<!-- **Figure of the week**: -->
+
+**Week 2: 1/27 & 1/29**
+Markdown & Variables and Types
+
+**File**: Lecture 3 (Markdown) & Lecture 4 (Variables and Types)
+
+**Homework**: [PSet 2 Due Monday, February 2nd at 5pm](https://canvas.wisc.edu/courses/485035/assignments/2967201)
