@@ -1,7 +1,8 @@
 ---
+layout: single
 title: "Econ 390 Lecture 1"
 sitemap: false
-permalink: /pages/Econ_390_L1
+permalink: /pages/Econ_390_L1/
 ---
 
 # Welcome to Econ 390 - Introduction Programming: Economic Data
