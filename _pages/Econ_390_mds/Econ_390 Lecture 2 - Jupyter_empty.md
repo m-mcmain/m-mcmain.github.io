@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 sitemap: false
 permalink: /pages/Econ_390_SP26_L2/
 ---
