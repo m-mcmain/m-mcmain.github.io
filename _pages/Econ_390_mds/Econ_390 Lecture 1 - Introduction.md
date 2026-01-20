@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: default
 sitemap: false
 permalink: /pages/Econ_390_SP26_L1/
 ---
@@ -42,7 +42,8 @@ I will take the better of the following two grading schemes:
 [82, 88) = B \
 [78, 82) = BC \
 [70, 78) = C \
-[60, 70) = D
+[60, 70) = D \
+[0, 60) = F
 
 **Percentile in Class** \
 [75, 100] = A \
@@ -66,12 +67,11 @@ Problem Sets ($PS$) will be worth 40% of your final grade
 - The first Problem Set will be due on **Monday January 26th at 5 PM**
 - Late problem sets will have their grade reduced by 20% for every day they are late
 - You are absolutely welcome to work with other classmates and consult the internet when working with the Problem Sets, however what you turn in must be *your own*
-    - Students whose code is *identical* to another student's will receive a 0 (this is very easy to avoid and incredibly unlikey to occur randomly)
     - If you use any LLMs/Generative AI please include copies of the queries you used and responses you got
     - While they are a helpful tool, don't let them replace actually learning the course material! The exams will be much harder for you if you are unable to engage with the course material without Generative AI.
 
 The Midterm Exam will be worth 20% of your final grade
-- It will be held **in person** during our normal class session on **Thursday March 5th, 2026**
+- It will be held **in person** during our normal class session on **Thursday March 12th, 2026**
 - If you know you cannot make this date for some reason, let me know ASAP so we can figure out how to resolve this
 - It will be 100% handwritten and modelled similarly to Econ 570 exams.
 
