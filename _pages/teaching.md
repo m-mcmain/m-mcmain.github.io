@@ -8,7 +8,7 @@ author_profile: true
 # Instructor
 
 ## Current semester  
-<span style="font-size: 15px;">ECON 390, [Introduction to Programming with Economic Data](https://m-mcmain.github.io/teaching/Econ-390/), M McMain, _University of Wisconsin - Madison_, Spring 2026</span>
+<span style="font-size: 15px;">ECON 390, [Introduction to Programming with Economic Data](https://m-mcmain.github.io/teaching/Econ-390-SP26/), M McMain, _University of Wisconsin - Madison_, Spring 2026</span>
 
 # Teaching Assistant
 
