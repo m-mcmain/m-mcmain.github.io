@@ -18,7 +18,7 @@ Students will be admitted from the waitlist very simply based on their spot in l
 
 ## Class Meetings
 - Attendance will be very important in this class
-- The Jupyter Notebooks that I fill out in class will be uploaded on the [course website](https://m-mcmain.github.io/teaching/econ-370)
+- The Jupyter Notebooks that I fill out in class will be uploaded on the [course website](https://m-mcmain.github.io/teaching/Econ-390-SP26)
     - I'll upload the blank version before class so you can download it before lecture begins
     - I'll also upload the filled in version after class is over
     - If you are unable to come to class, I would still recommend taking the time to download the blank version of the lecture and manually type it out while you are going through *as if you were in lecture* as a way to simulate the experience
@@ -31,7 +31,7 @@ Students will be admitted from the waitlist very simply based on their spot in l
 The textbook for this course will be primarily [Python for Data Analysis 3E](https://wesmckinney.com/book/) and secondarily [Coding for Economists](https://aeturrell.github.io/coding-for-economists/) which are fully available for free! I will try to make it clear which material come from where at the top of the Notebooks.
 
 ## Course Calendar
-You can find a course calendar on the [course website](https://m-mcmain.github.io/teaching/econ-370). Since it's my first time teaching this course, some things may be faster or slower than expeted but I will guarantee that **Problem Sets** and **Exams** will not change due dates at all.
+You can find a course calendar on the [course website](https://m-mcmain.github.io/teaching/Econ-390-SP26). Since it's my first time teaching this course, some things may be faster or slower than expeted but I will guarantee that **Problem Sets** and **Exams** will not change due dates at all.
 
 ## Grading
 I will take the better of the following two grading schemes:
