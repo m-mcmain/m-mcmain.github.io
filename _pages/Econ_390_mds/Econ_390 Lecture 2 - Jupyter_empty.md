@@ -5,6 +5,7 @@ permalink: /pages/Econ_390_SP26_L2/
 ---
 
 [Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lecture2_Jupyter_empty.ipynb)
+
 [Download Jupyter Notebook Completed]()
 
 # Econ 390 - Lecture 2: Jupyter Notebook
