@@ -9,7 +9,7 @@ author_profile: true
 
 **Meeting**: Tuesdays and Thursdays 2:30-3:45 | 594 Van Hise
 <br><br>
-**Instructor**: M McMain // mcmain@wisc.edu
+**Instructor**: M McMain | mcmain@wisc.edu
 <br>
 **Office hours**: Mondays & Thursdays 11AM-12:30PM | 7230 Soc Sci
 <br><br>
@@ -34,7 +34,7 @@ Introduction & Using Jupyter
 
 **Reading**: [Syllabus](https://m-mcmain.github.io/files/Econ390SP26/Econ390_Spring2026_Syllabus.pdf) 
 
-**File**: 
+**File**: [Lecture 1](https://m-mcmain.github.io/pages/Econ_390_L1/)
 
 **Homework**: [PSet 1 Due Monday, January 26th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/683889)
 
