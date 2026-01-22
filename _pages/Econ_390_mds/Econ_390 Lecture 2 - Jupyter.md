@@ -1,3 +1,13 @@
+---
+layout: single
+sitemap: false
+permalink: /pages/Econ_390_SP26_L2_full/
+---
+
+[Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lecture2_Jupyter_empty.ipynb)
+
+[Download Jupyter Notebook Completed](https://m-mcmain.github.io/files/Econ390SP26/Lecture2_Jupyter.ipynb)
+
 # Econ 390 - Lecture 2: Jupyter Notebook
 
 At the end of last lecture, we downloaded Anaconda Navigator, which includes Jupyter Notebook. Open up the Anaconda Navigator and begin a Jupyter Notebook.
