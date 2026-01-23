@@ -1,13 +1,3 @@
----
-layout: single
-sitemap: false
-permalink: /pages/Econ_390_SP26_L2_full/
----
-
-[Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lecture2_Jupyter_empty.ipynb)
-
-[Download Jupyter Notebook Completed](https://m-mcmain.github.io/files/Econ390SP26/Lecture2_Jupyter.ipynb)
-
 # Econ 390 - Lecture 2: Jupyter Notebook
 
 At the end of last lecture, we downloaded Anaconda Navigator, which includes Jupyter Notebook. Open up the Anaconda Navigator and begin a Jupyter Notebook.
@@ -49,23 +39,13 @@ Some useful things to note:
 
 
 ```python
-print("Hello World!");
+print("4 + 5")
+print(3*6)
 ```
 
-    Hello World!
-    
-
-
-```python
-3*6
-```
-
-
-
-
+    4 + 5
     18
-
-
+    
 
 
 ```python
@@ -74,33 +54,15 @@ print("Hello World!");
 
 
 ```python
-aa = 1
-a = 32
+print(hello world)
 ```
 
 
-```python
-a?
-```
-
-
-    [1;31mType:[0m        int
-    [1;31mString form:[0m 32
-    [1;31mDocstring:[0m  
-    int([x]) -> integer
-    int(x, base=10) -> integer
+      Cell In[14], line 1
+        print(hello world)
+              ^
+    SyntaxError: invalid syntax. Perhaps you forgot a comma?
     
-    Convert a number or string to an integer, or return 0 if no arguments
-    are given.  If x is a number, return x.__int__().  For floating-point
-    numbers, this truncates towards zero.
-    
-    If x is not a number or if base is given, then x must be a string,
-    bytes, or bytearray instance representing an integer literal in the
-    given base.  The literal can be preceded by '+' or '-' and be surrounded
-    by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
-    Base 0 means to interpret the base from the string as an integer literal.
-    >>> int('0b100', base=0)
-    4
 
 
 
@@ -122,6 +84,75 @@ print?
     flush
       whether to forcibly flush the stream.
     [1;31mType:[0m      builtin_function_or_method
+
+
+
+```python
+a = 3
+b = 5
+```
+
+
+```python
+print(a, b, "stuff", sep=", ", end=".\n")
+print(a)
+```
+
+    3, 5, stuff.
+    3
+    
+
+
+```python
+a?
+```
+
+
+    [1;31mType:[0m        int
+    [1;31mString form:[0m 3
+    [1;31mDocstring:[0m  
+    int([x]) -> integer
+    int(x, base=10) -> integer
+    
+    Convert a number or string to an integer, or return 0 if no arguments
+    are given.  If x is a number, return x.__int__().  For floating-point
+    numbers, this truncates towards zero.
+    
+    If x is not a number or if base is given, then x must be a string,
+    bytes, or bytearray instance representing an integer literal in the
+    given base.  The literal can be preceded by '+' or '-' and be surrounded
+    by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+    Base 0 means to interpret the base from the string as an integer literal.
+    >>> int('0b100', base=0)
+    4
+
+
+
+```python
+name = "M"
+fav_book = "Neuromancer"
+
+fav book = "Neuromancer"
+```
+
+
+      Cell In[31], line 4
+        fav book = "Neuromancer"
+            ^
+    SyntaxError: invalid syntax
+    
+
+
+
+```python
+a
+```
+
+
+
+
+    3
+
 
 
 ## Closing Out
