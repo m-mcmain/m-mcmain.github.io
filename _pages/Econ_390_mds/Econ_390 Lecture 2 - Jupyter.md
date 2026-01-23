@@ -1,3 +1,9 @@
+---
+layout: single
+sitemap: false
+permalink: /pages/Econ_390_SP26_L2/
+---
+
 # Econ 390 - Lecture 2: Jupyter Notebook
 
 At the end of last lecture, we downloaded Anaconda Navigator, which includes Jupyter Notebook. Open up the Anaconda Navigator and begin a Jupyter Notebook.
