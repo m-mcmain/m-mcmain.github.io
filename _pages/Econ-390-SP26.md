@@ -51,4 +51,4 @@ Data Structures & Conditionals
 
 **File**: Lecture 5 (Data Structures) & Lecture 6 (Conditionals)
 
-**Homework**: PSet 3 Due Monday, February 9nd at 5pm
+**Homework**: PSet 3 Due Monday, February 9th at 5pm
