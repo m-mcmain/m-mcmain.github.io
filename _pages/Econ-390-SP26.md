@@ -29,7 +29,7 @@ This week-by-week schedule will be constantly updated. Some topics may take long
 
 ---
 
-**Week 1: 1/20 & 1/22**
+### **Week 1: 1/20 & 1/22**
 Introduction & Using Jupyter
 
 **Reading**: [Syllabus](https://m-mcmain.github.io/files/Econ390SP26/Econ390_Spring2026_Syllabus.pdf) 
@@ -39,9 +39,16 @@ Introduction & Using Jupyter
 **Homework**: [PSet 1 Due Monday, January 26th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/683889)
 
 
-**Week 2: 1/27 & 1/29**
+### **Week 2: 1/27 & 1/29**
 Markdown & Variables and Types
 
-**File**: Lecture 3 (Markdown) & Lecture 4 (Variables and Types)
+**File**: [Lecture 3 (Markdown)](https://m-mcmain.github.io/pages/Econ_390_SP26_L3/) & [Lecture 4 (Variables and Types)](https://m-mcmain.github.io/pages/Econ_390_SP26_L4/)
 
 **Homework**: [PSet 2 Due Monday, February 2nd at 5pm](https://canvas.wisc.edu/courses/485035/assignments/2967201)
+
+### **Week 3: 2/3 & 2/5**
+Data Structures & Conditionals
+
+**File**: Lecture 5 (Data Structures) & Lecture 6 (Conditionals)
+
+**Homework**: PSet 3 Due Monday, February 9nd at 5pm
