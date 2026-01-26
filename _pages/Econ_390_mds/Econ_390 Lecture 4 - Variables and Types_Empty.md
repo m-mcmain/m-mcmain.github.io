@@ -1,3 +1,12 @@
+---
+layout: single
+sitemap: false
+permalink: /pages/Econ_390_SP26_L4_empty/
+---
+[Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lecture4_VariablesandTypes_empty.ipynb)
+
+Download Jupyter Notebook Completed
+
 # Econ 390 - Lecture 4: Variables and Types
 
 The goal for this lecture is to learn how to create variables (focusing on Int, Float, and String) and applying various operators to them (addition, multiplication, etc...). You can find further reading in [McKinney](https://wesmckinney.com/book/python-basics#scalar_types) and Turrell for [variables](https://aeturrell.github.io/coding-for-economists/code-basics.html#values-variables-and-types) and [operators](https://aeturrell.github.io/coding-for-economists/code-basics.html#operators).
