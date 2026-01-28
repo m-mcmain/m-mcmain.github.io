@@ -1,3 +1,12 @@
+---
+layout: single
+sitemap: false
+permalink: /pages/Econ_390_SP26_L3_full/
+---
+[Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lecture3_Markdown_empty.ipynb)
+
+[Download Jupyter Notebook Completed](https://m-mcmain.github.io/files/Econ390SP26/Lecture3_Markdown_full.ipynb)
+
 # Econ 390 - Lecture 3: Markdown
 Today we will be learning how to use Markdown. It is useful both in Jupyter Notebook but it also shows up in many other places! E.g. Github websites, notion.io, Discord
 
