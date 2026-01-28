@@ -42,7 +42,7 @@ Introduction & Using Jupyter
 ### **Week 2: 1/27 & 1/29**
 Markdown & Variables and Types
 
-**File**: [Lecture 3 (Markdown)](https://m-mcmain.github.io/pages/Econ_390_SP26_L3/) & [Lecture 4 (Variables and Types)](https://m-mcmain.github.io/pages/Econ_390_SP26_L4/)
+**File**: [Lecture 3 (Markdown)](https://m-mcmain.github.io/pages/Econ_390_SP26_L3_full/) & [Lecture 4 (Variables and Types)](https://m-mcmain.github.io/pages/Econ_390_SP26_L4/)
 
 **Homework**: [PSet 2 Due Monday, February 2nd at 5pm](https://canvas.wisc.edu/courses/485035/assignments/2967201)
 
