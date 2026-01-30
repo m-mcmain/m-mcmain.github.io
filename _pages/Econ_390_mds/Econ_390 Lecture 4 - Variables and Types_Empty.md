@@ -1,7 +1,7 @@
 ---
 layout: single
 sitemap: false
-permalink: /pages/Econ_390_SP26_L4/
+permalink: /pages/Econ_390_SP26_L4_empty/
 ---
 [Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lectures/Lecture4_VariablesandTypes_empty.ipynb)
 
