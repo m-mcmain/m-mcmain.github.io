@@ -49,6 +49,13 @@ Markdown & Variables and Types
 ### **Week 3: 2/3 & 2/5**
 Data Structures & Conditionals
 
-**File**: Lecture 5 (Data Structures) & Lecture 6 (Conditionals)
+**File**: [Lecture 5 (Data Structures)](https://m-mcmain.github.io/pages/Econ_390_SP26_L5/) & [Lecture 6 (Conditionals)](https://m-mcmain.github.io/pages/Econ_390_SP26_L6/)
 
-**Homework**: PSet 3 Due Monday, February 9th at 5pm
+**Homework**: [PSet 3 Due Monday, February 9th at 5pm](https://canvas.wisc.edu/courses/485035/assignments/3011239)
+
+### **Week 4: 2/10 & 2/12**
+Loops & Slicing and More
+
+**File**: Lecture 7 (Loops) & Lecture 8 (Slicing and More)
+
+**Homework**: PSet 4 Due Monday, February 16th at 5pm
