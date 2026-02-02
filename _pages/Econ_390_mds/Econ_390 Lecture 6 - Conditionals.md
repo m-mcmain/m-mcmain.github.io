@@ -1,3 +1,12 @@
+---
+layout: single
+sitemap: false
+permalink: /pages/Econ_390_SP26_L6_teaching/
+---
+[Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lectures/Lecture6_Conditionals_empty.ipynb)
+
+[Download Jupyter Notebook Completed](https://m-mcmain.github.io/files/Econ390SP26/Lectures/Lecture6_Conditionals_full.ipynb)
+
 # Econ 390 - Lecture 6: Conditionals
 
 This lecture we will discuss the Boolean data type and implementing conditionals in if statements and loops. Conditionals are incredibly useful for limiting what happens in the code and when. At the base of a conditional is a Boolean. This is mostly inspired by [this](https://aeturrell.github.io/coding-for-economists/data-boolean.html) chapter in Turrell.
