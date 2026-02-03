@@ -1,3 +1,12 @@
+---
+layout: single
+sitemap: false
+permalink: /pages/Econ_390_SP26_L5/
+---
+[Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lectures/Lecture5_DataStructures_empty.ipynb)
+
+[Download Jupyter Notebook Completed](https://m-mcmain.github.io/files/Econ390SP26/Lectures/Lecture5_DataStructures_full.ipynb)
+
 # Econ 390: Lecture 5 - Tuples, Lists, and Dictionaries
 
 This lecture we will go through a few more variable types. You can find the relevant reading for [McKinney](https://wesmckinney.com/book/python-builtin#tut_data_structures) and the appropriate subsections in Turrell ([Lists and Slicing](https://aeturrell.github.io/coding-for-economists/code-basics.html#lists-and-slicing) & [Dictionaries](https://aeturrell.github.io/coding-for-economists/code-basics.html#dictionaries)).
