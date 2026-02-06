@@ -56,6 +56,13 @@ Data Structures & Conditionals
 ### **Week 4: 2/10 & 2/12**
 Loops & Slicing and More
 
-**File**: Lecture 7 (Loops) & Lecture 8 (Slicing and More)
+**File**: [Lecture 7 (Loops)](https://m-mcmain.github.io/pages/Econ_390_SP26_L7/) & [Lecture 8 (Slicing and More)](https://m-mcmain.github.io/pages/Econ_390_SP26_L8/)
 
-**Homework**: PSet 4 Due Monday, February 16th at 5pm
+**Homework**: [PSet 4 Due Monday, February 16th at 5pm](https://canvas.wisc.edu/courses/485035/assignments/3012684)
+
+### **Week 5: 2/17 & 2/19**
+Functions & Pandas Data Structures
+
+**File**: [Lecture 9 (Functions)] & [Lecture 10 (Pandas Data Structures)]
+
+**Homework**: [PSet 5 Due Monday, February 23th at 5pm]
