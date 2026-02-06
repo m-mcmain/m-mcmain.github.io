@@ -245,7 +245,7 @@ else:
 final_grade_point = 2
 if final_grade_point >= grades["AB"]:
     print("I'd be happy.")
-elif final_grade_point >= grades["BC"]:
+elif final_grade_point >= grades["C"]:
     print("I'd be fine.")
 else:
     print("I'd be disappointed.")
@@ -253,5 +253,5 @@ else:
 
     True
     M is older than Anais
-    I'd be disappointed.
+    I'd be fine.
     
