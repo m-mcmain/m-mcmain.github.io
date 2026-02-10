@@ -1,3 +1,13 @@
+---
+layout: single
+sitemap: false
+permalink: /pages/Econ_390_SP26_L7/
+---
+
+[Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lectures/Lecture7_Loops_empty.ipynb)
+
+[Download Jupyter Notebook Completed](https://m-mcmain.github.io/files/Econ390SP26/Lectures/Lecture7_Loops_full.ipynb)
+
 # Econ 390 - Lecture 7: Loops
 
 Today we will go through Loops and List Comprehension. These are powerful tools that allow you to do the same task over and over again until certain conditions are met. You can find relevant reading for [McKinney](https://wesmckinney.com/book/python-basics#control_for) and [Turrell](https://aeturrell.github.io/coding-for-economists/code-basics.html#loops-and-list-comprehensions).
