@@ -63,6 +63,13 @@ Loops & Slicing and More
 ### **Week 5: 2/17 & 2/19**
 Functions & Pandas Data Structures
 
-**File**: [Lecture 9 (Functions)] & [Lecture 10 (Pandas Data Structures)]
+**File**: [Lecture 9 (Functions)](https://m-mcmain.github.io/pages/Econ_390_SP26_L9/) & [Lecture 10 (Pandas Data Structures)](https://m-mcmain.github.io/pages/Econ_390_SP26_L10/)
 
-**Homework**: [PSet 5 Due Monday, February 23th at 5pm]
+**Homework**: [PSet 5 Due Monday, February 23th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/706920)
+
+### **Week 6: 2/24 & 2/26**
+Pandas Read and Write & Pandas Calculations
+
+**File**: [Lecture 11 (Pandas Read and Write)] & [Lecture 12 (Pandas Calculations)]
+
+**Homework**: [PSet 6 Due Monday, March 2nd at 5pm]
