@@ -70,6 +70,20 @@ Functions & Pandas Data Structures
 ### **Week 6: 2/24 & 2/26**
 Pandas Read and Write & Pandas Calculations
 
-**File**: [Lecture 11 (Pandas Read and Write)] & [Lecture 12 (Pandas Calculations)]
+**File**: [Lecture 11 (Pandas Read and Write)](https://m-mcmain.github.io/pages/Econ_390_SP26_L11/) & [Lecture 12 (Pandas Calculations)](https://m-mcmain.github.io/pages/Econ_390_SP26_L12/)
 
-**Homework**: [PSet 6 Due Monday, March 2nd at 5pm]
+**Homework**: [PSet 6 Due Monday, March 2nd at 5pm](https://canvas.wisc.edu/courses/485035/assignments/3021034)
+
+### **Week 7: 3/3 & 3/5**
+Matplotlib Line Plots & More Plots
+
+**File**: Lecture 13 (Matplotlib Line Plots) & Lecture 14 (More Plots)
+
+**Homework**: PSet 7 Due Monday, March 9th at 5pm
+
+### **Weel 8: 3/10 & 3/12**
+Midterm Week
+
+**File**: Lecture 15 (Review) & Midterm
+
+**Homework**: No PSet Due Monday, March 16th
