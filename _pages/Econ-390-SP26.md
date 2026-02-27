@@ -77,13 +77,20 @@ Pandas Read and Write & Pandas Calculations
 ### **Week 7: 3/3 & 3/5**
 Matplotlib Line Plots & More Plots
 
-**File**: Lecture 13 (Matplotlib Line Plots) & Lecture 14 (More Plots)
+**File**: [Lecture 13 (Matplotlib Line Plots)](https://m-mcmain.github.io/pages/Econ_390_SP26_L13/) & [Lecture 14 (More Plots)](https://m-mcmain.github.io/pages/Econ_390_SP26_L14/)
 
-**Homework**: PSet 7 Due Monday, March 9th at 5pm
+**Homework**: [PSet 7 Due Monday, March 9th at 5pm](https://canvas.wisc.edu/courses/485035/assignments/3023784)
 
 ### **Weel 8: 3/10 & 3/12**
 Midterm Week
 
-**File**: Lecture 15 (Review) & Midterm
+**File**: Review Session & Midterm
 
 **Homework**: No PSet Due Monday, March 16th
+
+### **Week 9: 3/17 & 3/19**
+Stylesheets and Seaborn & APIs
+
+**File**: [Lecture 15 (Stylesheets and Seaborn)](https://m-mcmain.github.io/pages/Econ_390_SP26_L15/) & [Lecture 15 (APIs)](https://m-mcmain.github.io/pages/Econ_390_SP26_L16/)
+
+**Homework**: [PSet 8 Due Monday, March 23rd at 5pm]()
