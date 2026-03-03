@@ -12,7 +12,7 @@ Download Jupyter Notebook Completed
 Today we will begin learning how to create plots in Python using Matplotlib. You can find the relevant textbook chapters for [McKinney](https://wesmckinney.com/book/plotting-and-visualization) and [Turrell](https://aeturrell.github.io/coding-for-economists/vis-matplotlib.html#understanding-matplotlib).
 
 ## Mid-Semester Course Evaluation
-Tomorrow is the final day to complete the mid-semester course evaluation! Completing the survey will give me active feedback to improve your experience in the class and will help me out a ton moving forward. Look for an email from `learningassessment@provost.wisc.edu` or head to [this](https://heliocampusac.wisc.edu/index.cfm/page/AefisDashboard.home?Login=1) link and look for the **My Data Collection Forms Widget**. Thank you! 
+Tomorrow is the final day to complete the mid-semester course evaluation! Completing the survey will give me active feedback to improve your experience in the class and will help me out a ton moving forward. Look for an email from `learningassessment@provost.wisc.edu` or head to [this](https://heliocampusac.wisc.edu/index.cfm/page/AefisDashboard.home?Login=1) link and look for the Econ 390 - 001 course survey. Thank you!
 
 ## Essay Competition
 There is an [Undergraduate Essay Competition](https://csld.wisc.edu/2026/02/27/announcing-the-2026-undergraduate-essay-competition/) being run by the Center for the Study of Liberal Democracy here at UW Madison. ~1000 word essays due on March 30th.
