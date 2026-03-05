@@ -16,6 +16,7 @@ Today we will be going over making plots with Matplotlib that aren't line plots.
 
 ```python
 # As always
+url = "https://m-mcmain.github.io/files/Econ390SP26/"
 ```
 
 
