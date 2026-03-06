@@ -2,6 +2,7 @@
 layout: single
 sitemap: false
 permalink: /pages/Econ_390_SP26_L8/
+title: Econ 390 Lecture 8
 ---
 
 [Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lectures/Lecture8_SlicingandMore_empty.ipynb)
