@@ -2,6 +2,7 @@
 layout: single
 sitemap: false
 permalink: /pages/Econ_390_SP26_L10_teaching/
+title: Econ 390 Lecture 10
 ---
 
 [Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lectures/Lecture10_PandasDataStructures_empty.ipynb)
