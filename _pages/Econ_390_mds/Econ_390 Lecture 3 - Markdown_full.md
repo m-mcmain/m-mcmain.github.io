@@ -2,6 +2,7 @@
 layout: single
 sitemap: false
 permalink: /pages/Econ_390_SP26_L3_full/
+title: Econ 390 Lecture 3
 ---
 [Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lectures/Lecture3_Markdown_empty.ipynb)
 
