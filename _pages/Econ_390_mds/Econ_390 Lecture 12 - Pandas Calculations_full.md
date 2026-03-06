@@ -2,6 +2,7 @@
 layout: single
 sitemap: false
 permalink: /pages/Econ_390_SP26_L12/
+title: Econ 390 Lecture 12
 ---
 
 [Download Jupyter Notebook Empty](https://m-mcmain.github.io/files/Econ390SP26/Lectures/Lecture12_PandasCalculations_empty.ipynb)
