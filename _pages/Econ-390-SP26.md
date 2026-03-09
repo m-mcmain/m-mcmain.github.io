@@ -84,7 +84,7 @@ Matplotlib Line Plots & More Plots
 ### **Weel 8: 3/10 & 3/12**
 Midterm Week
 
-**File**: Review Session & Midterm
+**File**: [Practice Midterm](https://canvas.wisc.edu/courses/485035/files/51895917?wrap=1) ([Answer Key](https://canvas.wisc.edu/courses/485035/files/51896857?wrap=1))
 
 **Homework**: No PSet Due Monday, March 16th
 
