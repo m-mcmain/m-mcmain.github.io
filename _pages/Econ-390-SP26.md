@@ -91,6 +91,20 @@ Midterm Week
 ### **Week 9: 3/17 & 3/19**
 Stylesheets and Seaborn & APIs
 
-**File**: [Lecture 15 (Stylesheets and Seaborn)](https://m-mcmain.github.io/pages/Econ_390_SP26_L15/) & [Lecture 15 (APIs)](https://m-mcmain.github.io/pages/Econ_390_SP26_L16/)
+**File**: [Lecture 15 (Stylesheets and Seaborn)](https://m-mcmain.github.io/pages/Econ_390_SP26_L15/) & [Lecture 16 (APIs)](https://m-mcmain.github.io/pages/Econ_390_SP26_L16/)
 
 **Homework**: [PSet 8 Due Monday, March 23rd at 5pm]()
+
+### **Week 10: 3/24 & 3/26**
+Additional APIs & Aggregation
+
+**File**: [Lecture 17 (Additional APIs)](https://m-mcmain.github.io/pages/Econ_390_SP26_L17/) & [Lecture 18 (Aggregation)](https://m-mcmain.github.io/pages/Econ_390_SP26_L18/)
+
+**Homework**: [PSet 9 Due Monday, March 30th at 5pm]()
+
+### **Week 11: 3/31 & 4/2**
+Spring Break
+
+**File**: No Files
+
+**Homework**: No Homework
