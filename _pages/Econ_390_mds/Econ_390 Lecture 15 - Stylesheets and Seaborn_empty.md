@@ -10,7 +10,7 @@ title: Econ 390 Lecture 15
 Download Jupyter Notebook Completed
 
 # Econ 390 - Lecture 15: Matplotlib Stylesheets and Seaborn
-Today we will be going over stylesheets and Seaborn. You'll see Seaborn around both [McKinney](https://aeturrell.github.io/coding-for-economists/vis-common-plots-one.html) and [Turrell](https://aeturrell.github.io/coding-for-economists/vis-common-plots-one.html).
+Today we will be going over stylesheets and Seaborn. You'll see Seaborn around both [McKinney](https://wesmckinney.com/book/plotting-and-visualization#vis_pandas) and [Turrell](https://aeturrell.github.io/coding-for-economists/vis-common-plots-one.html).
 
 ## Matplotlib Stylesheets
 
