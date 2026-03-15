@@ -93,7 +93,7 @@ Stylesheets and Seaborn & APIs
 
 **File**: [Lecture 15 (Stylesheets and Seaborn)](https://m-mcmain.github.io/pages/Econ_390_SP26_L15/) & [Lecture 16 (APIs)](https://m-mcmain.github.io/pages/Econ_390_SP26_L16/)
 
-**Homework**: [PSet 8 Due Monday, March 23rd at 5pm]()
+**Homework**: [PSet 8 Due Monday, March 23rd at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/709513)
 
 ### **Week 10: 3/24 & 3/26**
 Additional APIs & Aggregation
