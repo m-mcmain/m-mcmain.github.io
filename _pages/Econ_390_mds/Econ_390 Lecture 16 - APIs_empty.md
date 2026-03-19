@@ -1,7 +1,7 @@
 ---
 layout: single
 sitemap: false
-permalink: /pages/Econ_390_SP26_L16/
+permalink: /pages/Econ_390_SP26_L16_empty/
 title: Econ 390 Lecture 16
 ---
 
