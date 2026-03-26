@@ -1,7 +1,7 @@
 ---
 layout: single
 sitemap: false
-permalink: /pages/Econ_390_SP26_L18/
+permalink: /pages/Econ_390_SP26_L18_empty/
 title: Econ 390 Lecture 18
 ---
 
