@@ -108,3 +108,10 @@ Spring Break
 **File**: No Files
 
 **Homework**: No Homework
+
+### **Week 12: 4/7 & 4/9**
+Merging & More Merging
+
+**File**: [Lecture 19 (Merging)](https://m-mcmain.github.io/pages/Econ_390_SP26_L19/) & [Lecture 20 (More Merging)](https://m-mcmain.github.io/pages/Econ_390_SP26_L20/)
+
+**Homework**: [PSet 10 Due Monday, April 13th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/711078)
