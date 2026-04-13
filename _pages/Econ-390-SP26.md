@@ -115,3 +115,24 @@ Merging & More Merging
 **File**: [Lecture 19 (Merging)](https://m-mcmain.github.io/pages/Econ_390_SP26_L19/) & [Lecture 20 (More Merging)](https://m-mcmain.github.io/pages/Econ_390_SP26_L20/)
 
 **Homework**: [PSet 10 Due Monday, April 13th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/711078)
+
+### **Week 13: 4/14 & 4/16**
+OLS & Categorical Variables
+
+**File**: [Lecture 21 (OLS)](https://m-mcmain.github.io/pages/Econ_390_SP26_L21/) & [Lecture 22 (Categorical Variables)](https://m-mcmain.github.io/pages/Econ_390_SP26_L22/)
+
+**Homework**: [PSet 11 Due Monday, April 20th at 5pm]()
+
+### **Week 14: 4/21 & 4/23**
+Topics
+
+**File**: 
+
+**Homework**: PSet 12 Due Monday April 27th at 5pm
+
+### **Week 15: 4/28 & 4/30**
+Topic & Final Review
+
+**File**: 
+
+**Homework**: No Homework Due
