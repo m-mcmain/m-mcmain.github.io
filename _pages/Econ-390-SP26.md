@@ -121,7 +121,7 @@ OLS & Categorical Variables
 
 **File**: [Lecture 21 (OLS)](https://m-mcmain.github.io/pages/Econ_390_SP26_L21/) & [Lecture 22 (Categorical Variables)](https://m-mcmain.github.io/pages/Econ_390_SP26_L22/)
 
-**Homework**: [PSet 11 Due Monday, April 20th at 5pm]()
+**Homework**: [PSet 11 Due Monday, April 20th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/711900)
 
 ### **Week 14: 4/21 & 4/23**
 Topics
@@ -136,3 +136,6 @@ Topic & Final Review
 **File**: 
 
 **Homework**: No Homework Due
+
+### **Week 16: 5/8**
+*Final Exam on Friday, May 8th from 2:45-4:45pm in VAN HISE 594*
