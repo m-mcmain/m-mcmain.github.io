@@ -1,7 +1,7 @@
 ---
 layout: single
 sitemap: false
-permalink: /pages/Econ_390_SP26_L22/
+permalink: /pages/Econ_390_SP26_L22_empty/
 title: Econ 390 Lecture 22
 ---
 
