@@ -124,11 +124,11 @@ OLS & Categorical Variables
 **Homework**: [PSet 11 Due Monday, April 20th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/711900)
 
 ### **Week 14: 4/21 & 4/23**
-Topics
+Difference in Differences & Regular Expression
 
-**File**: 
+**File**: [Lecture 23 (DiD)](https://m-mcmain.github.io/pages/Econ_390_SP26_L23/) & Lecture 24 (RegEx)
 
-**Homework**: PSet 12 Due Monday April 27th at 5pm
+**Homework**: [PSet 12 Due Monday April 27th at 5pm](https://canvas.wisc.edu/courses/485035/assignments/3046145)
 
 ### **Week 15: 4/28 & 4/30**
 Topic & Final Review
