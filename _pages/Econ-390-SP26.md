@@ -126,7 +126,7 @@ OLS & Categorical Variables
 ### **Week 14: 4/21 & 4/23**
 Difference in Differences & Regular Expression
 
-**File**: [Lecture 23 (DiD)](https://m-mcmain.github.io/pages/Econ_390_SP26_L23/) & Lecture 24 (RegEx)
+**File**: [Lecture 23 (DiD)](https://m-mcmain.github.io/pages/Econ_390_SP26_L23/) & [Lecture 24 (RegEx)](https://m-mcmain.github.io/pages/Econ_390_SP26_L24/)
 
 **Homework**: [PSet 12 Due Monday April 27th at 5pm](https://canvas.wisc.edu/courses/485035/assignments/3046145)
 
