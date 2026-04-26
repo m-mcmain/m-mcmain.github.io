@@ -138,4 +138,4 @@ Lasso & Final Review
 **Homework**: [Extra Credit Optionally Due May 4th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/713398)
 
 ### **Week 16: 5/8**
-*Final Exam on Friday, May 8th from 2:45-4:45pm in VAN HISE 594*
+*Final Exam on Friday, May 8th from 2:45-4:00pm in VAN HISE 594*
