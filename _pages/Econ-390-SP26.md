@@ -131,11 +131,11 @@ Difference in Differences & Regular Expression
 **Homework**: [PSet 12 Due Monday April 27th at 5pm](https://canvas.wisc.edu/courses/485035/assignments/3046145)
 
 ### **Week 15: 4/28 & 4/30**
-Topic & Final Review
+Lasso & Final Review
 
-**File**: 
+**File**: [Lecture 25 (Lasso)](https://m-mcmain.github.io/pages/Econ_390_SP26_L25/) & Practice Final (Answer Key)
 
-**Homework**: No Homework Due
+**Homework**: [Extra Credit Optionally Due May 4th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/713398)
 
 ### **Week 16: 5/8**
 *Final Exam on Friday, May 8th from 2:45-4:45pm in VAN HISE 594*
