@@ -169,10 +169,8 @@ Here's the calculation:
 3. I will then compare that grade to the grade your numerical score would earn and choose the higher of the two
 
 ## End of Content
-We made it! Before we leave, I'd appreciate if you could take 5-10 minutes here completing the [course evaluation](https://heliocampusac.wisc.edu/) if you haven't already. You should be able to click on the link, login, and look for the "Available Forms" tile and click on this course. Since this is my first time as an instructor and first time teaching this course, you can have a very big impact on:
-1. Whether or not I teach this course again
-2. What this course looks like if I do
+We made it! Before we leave, I'd appreciate if you could take 5-10 minutes here completing the [course evaluation](https://heliocampusac.wisc.edu/) if you haven't already. You should be able to click on the link, login, and look for the "Available Forms" tile and click on this course. 
 
-So I would appreciate any honest, constructive feedback you have for me!
+Since this is my first time as an instructor and first time teaching this course, you can have a very big impact on what this course looks like if I teach it again. So I would appreciate any honest, constructive feedback you have for me!
 
 Thanks for spending part of your semester with me in Econ 390 and on Thursday we will review for the Final Exam.
