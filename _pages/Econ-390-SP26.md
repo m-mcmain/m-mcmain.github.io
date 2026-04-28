@@ -133,7 +133,7 @@ Difference in Differences & Regular Expression
 ### **Week 15: 4/28 & 4/30**
 Lasso & Final Review
 
-**File**: [Lecture 25 (Lasso)](https://m-mcmain.github.io/pages/Econ_390_SP26_L25/) & Practice Final (Answer Key)
+**File**: [Lecture 25 (Lasso)](https://m-mcmain.github.io/pages/Econ_390_SP26_L25/) & [Practice Final](https://canvas.wisc.edu/courses/485035/files/52904588?wrap=1) ([Answer Key](https://canvas.wisc.edu/courses/485035/files/52904587?wrap=1))
 
 **Homework**: [Extra Credit Optionally Due May 4th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/713398)
 
