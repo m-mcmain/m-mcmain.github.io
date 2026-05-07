@@ -93,14 +93,14 @@ Stylesheets and Seaborn & APIs
 
 **File**: [Lecture 15 (Stylesheets and Seaborn)](https://m-mcmain.github.io/pages/Econ_390_SP26_L15/) & [Lecture 16 (APIs)](https://m-mcmain.github.io/pages/Econ_390_SP26_L16/)
 
-**Homework**: [PSet 8 Due Monday, March 23rd at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/709513)
+**Homework**: [PSet 8 Due Monday, March 23rd at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/709513) ([Notebook](https://m-mcmain.github.io/files/Econ390SP26/PSets/PSet8.ipynb) [Solutions](https://m-mcmain.github.io/files/Econ390SP26/PSets/PSet8_Answers.ipynb))
 
 ### **Week 10: 3/24 & 3/26**
 Additional APIs & Aggregation
 
 **File**: [Lecture 17 (Additional APIs)](https://m-mcmain.github.io/pages/Econ_390_SP26_L17/) & [Lecture 18 (Aggregation)](https://m-mcmain.github.io/pages/Econ_390_SP26_L18/)
 
-**Homework**: [PSet 9 Due Monday, April 6th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/710153)
+**Homework**: [PSet 9 Due Monday, April 6th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/710153) ([Notebook](https://m-mcmain.github.io/files/Econ390SP26/PSets/PSet9.ipynb) [Solutions](https://m-mcmain.github.io/files/Econ390SP26/PSets/PSet9_Answers.ipynb))
 
 ### **Week 11: 3/31 & 4/2**
 Spring Break
@@ -114,28 +114,28 @@ Merging & More Merging
 
 **File**: [Lecture 19 (Merging)](https://m-mcmain.github.io/pages/Econ_390_SP26_L19/) & [Lecture 20 (More Merging)](https://m-mcmain.github.io/pages/Econ_390_SP26_L20/)
 
-**Homework**: [PSet 10 Due Monday, April 13th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/711078)
+**Homework**: [PSet 10 Due Monday, April 13th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/711078) ([Notebook](https://m-mcmain.github.io/files/Econ390SP26/PSets/PSet10.ipynb) [Solutions](https://m-mcmain.github.io/files/Econ390SP26/PSets/PSet10_Answers.ipynb))
 
 ### **Week 13: 4/14 & 4/16**
 OLS & Categorical Variables
 
 **File**: [Lecture 21 (OLS)](https://m-mcmain.github.io/pages/Econ_390_SP26_L21/) & [Lecture 22 (Categorical Variables)](https://m-mcmain.github.io/pages/Econ_390_SP26_L22/)
 
-**Homework**: [PSet 11 Due Monday, April 20th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/711900)
+**Homework**: [PSet 11 Due Monday, April 20th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/711900) ([Notebook](https://m-mcmain.github.io/files/Econ390SP26/PSets/PSet11.ipynb) [Solutions](https://m-mcmain.github.io/files/Econ390SP26/PSets/PSet11_Answers.ipynb))
 
 ### **Week 14: 4/21 & 4/23**
 Difference in Differences & Regular Expression
 
 **File**: [Lecture 23 (DiD)](https://m-mcmain.github.io/pages/Econ_390_SP26_L23/) & [Lecture 24 (RegEx)](https://m-mcmain.github.io/pages/Econ_390_SP26_L24/)
 
-**Homework**: [PSet 12 Due Monday April 27th at 5pm](https://canvas.wisc.edu/courses/485035/assignments/3046145)
+**Homework**: [PSet 12 Due Monday April 27th at 5pm](https://canvas.wisc.edu/courses/485035/assignments/3046145) ([Notebook](https://m-mcmain.github.io/files/Econ390SP26/PSets/PSet12.ipynb) [Solutions](https://m-mcmain.github.io/files/Econ390SP26/PSets/PSet12_Answers.ipynb))
 
 ### **Week 15: 4/28 & 4/30**
 Lasso & Final Review
 
-**File**: [Lecture 25 (Lasso)](https://m-mcmain.github.io/pages/Econ_390_SP26_L25/) & [Practice Final](https://canvas.wisc.edu/courses/485035/files/52904588?wrap=1) ([Answer Key](https://canvas.wisc.edu/courses/485035/files/52904587?wrap=1))
+**File**: [Lecture 25 (Lasso)](https://m-mcmain.github.io/pages/Econ_390_SP26_L25/) & [Practice Final Canvas](https://canvas.wisc.edu/courses/485035/files/52904588?wrap=1) ([Answer Key](https://canvas.wisc.edu/courses/485035/files/52904587?wrap=1)) ([Website](https://m-mcmain.github.io/files/Econ390SP26/Econ390_SP26_Practice_Final_Exam.pdf) [Answer Key](https://m-mcmain.github.io/files/Econ390SP26/Econ390_SP26_Practice_Final_Exam_Solutions.pdf))
 
-**Homework**: [Extra Credit Optionally Due May 4th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/713398)
+**Homework**: [Extra Credit Optionally Due May 4th at 5pm](https://canvas.wisc.edu/courses/485035/quizzes/713398) ([Notebook](https://m-mcmain.github.io/files/Econ390SP26/PSets/EC.ipynb) [Solutions](https://m-mcmain.github.io/files/Econ390SP26/PSets/EC_Answers.ipynb))
 
 ### **Week 16: 5/8**
 *Final Exam on Friday, May 8th from 2:45-4:00pm in VAN HISE 594*
